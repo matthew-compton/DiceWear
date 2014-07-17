@@ -2,6 +2,7 @@
 <resources>
 
     <string name="app_name">DiceWear</string>
+    <string name="dialog_title">Die Roll - d%1$d:</string>
 
     <!-- Dice Types -->
     <string name="d20">d20</string>
